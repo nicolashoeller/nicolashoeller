@@ -4,10 +4,10 @@ Hi 👋 My name is Nicolas Höller
 Student at a technical college
 ------------------------------
 
-I program in my free time and am very interested in IT security. I am currently programming in C, Bash and assembly MIPS at my school
+I program in my free time and am very interested in IT security. I'm currently programming in C, C++ and Java at my school
 
 * 🌍  I'm based in Val Gardena
-* 🧠  I'm learning C, bash, assembly MIPS, Kotlin and Arduino
+* 🧠  I'm learning C, C++ and Java
 
 ### Skills
 
