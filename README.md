@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nicolas and I'm a college student, from South Tirol</p>
+<p align="left">My name is Nicolas and I'm a college student from South Tirol</p>
 
 ###
 
