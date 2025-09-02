@@ -4,6 +4,8 @@
 
 <p align="left">My name is Nicolas and I'm a college student from South Tirol</p>
 
+<h3 align="left">I'm currently learning Reverse Engeneering and Binary Exploitation</p>
+
 ###
 
 <h2 align="left">About me</h2>
