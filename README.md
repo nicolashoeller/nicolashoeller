@@ -4,15 +4,13 @@
 
 <p align="left">My name is Nicolas and I'm a college student from South Tirol</p>
 
-<h3 align="left">I'm currently learning Reverse Engeneering and Binary Exploitation</p>
-
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ I like playing CTFs<br>📚 I'm currently learning about red teaming, digital forensics and OSINT</p>
+<p align="left">✨ I like playing CTFs<br>📚 I'm currently learning about digital forensics, OSINT, reverse engeneering and binary exploitation</p>
 
 ###
 
