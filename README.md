@@ -29,3 +29,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
+
+###
+
+<h2 align="left">Visit my CTF Teams!</h2>
+<h3 align="left">Threads</h3>
+[![CTFtime](https://ctftime.org/static/images/ctftime-logo.png)](https://ctftime.org/team/287706)
+<h3 align="left">Embervault</h3>
+[![CTFtime](https://ctftime.org/static/images/ctftime-logo.png)](https://ctftime.org/team/402769)
