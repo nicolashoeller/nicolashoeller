@@ -34,6 +34,6 @@
 
 <h2 align="left">Visit my CTF Teams!</h2>
 <h3 align="left">Threads</h3>
-[![CTFtime](https://ctftime.org/static/images/ctftime-logo.png)](https://ctftime.org/team/287706)
+[![CTFtime](https://img.shields.io/badge/CTFtime-Profile-blue?logo=CTFtime)](https://ctftime.org/team/287706)
 <h3 align="left">Embervault</h3>
-[![CTFtime](https://ctftime.org/static/images/ctftime-logo.png)](https://ctftime.org/team/402769)
+[![CTFtime](https://img.shields.io/badge/CTFtime-Profile-blue?logo=CTFtime)](https://ctftime.org/team/402769)
